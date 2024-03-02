@@ -1,3 +1,8 @@
+<h1>👋 Hello there!</h1>
+<p>
+  Welcome to my page!<br>
+  My name is Alexander, I am currently a front-end developer student.
+</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -12,6 +17,6 @@
 </p>
 
 ### 📊 Github Stats
-![Reddnaxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddnaxx&show_icons=true&theme=dracula&custom_title=My%20GitHub%20Stats)
+![Reddnaxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddnaxx&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddnaxx&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddnaxx&layout=donut&theme=tokyonight)
