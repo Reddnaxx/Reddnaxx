@@ -4,7 +4,6 @@
   Я Александр<br/>
   🧑‍💻 Фронтенд-разработчик<br />
   🎓 4 курс — УрФУ, Программная инженерия <br />
-  🚀 Создаю удобные, быстрые и адаптивные приложения <br />
   📫 Telegram: <a href="https://t.me/reddnax">@reddnax</a> • ✉️ Email: as.rukavishnikov@mail.ru <br />
 </p>
 
