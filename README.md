@@ -95,8 +95,7 @@
 <summary>🧪 Текущий проект</summary>
 
 ### 🧩 Реферальная система  
-> **NX Monorepo**, **React 19**, **Vite**, **Tailwind CSS**, **Hero UI**,  
-> **Storybook**, **JWT Auth**, **REST API**
+> **NX Monorepo**, **React 19**, **Vite**, **Tailwind CSS**, **Hero UI**
 
 - 🔧 Разработка *отдельных* интерфейсов: **мобильной версии**, **десктопа** и **панели администратора**
 - 🎨 Работа над **сложной UI-системой** с множеством **анимаций**, **состояний**, **тем**
@@ -105,67 +104,8 @@
 - 🔐 Авторизация с помощью **JWT**
 - 💬 Реализация реферальных деревьев и визуализация прогресса
 
-> ⚠️ **Проект содержит конфиденциальную информацию и пока не доступен публично.**
-</details>
+> ⚠️ **Проект содержит конфиденциальную информацию и не доступен публично.**
 
----
-
-<details>
-<summary>🚀 Проекты</summary>
-
-### 🍽 [Bistro Scout](https://bistro-scout.vercel.app) — сервис бронирования столиков в ресторанах  
-> Next.js, NextAuth, SSR/ISR, Yandex Maps, Framer Motion
-
-- Модальные окна через перехватывающие роуты  
-- Бронирование в реальном времени  
-- Кастомные фильтры, SSR-оптимизация  
-
----
-
-### 🧥 [Warpoint Merch Shop](https://unit-hack.vercel.app) — онлайн-магазин мерча  
-> Next.js, Zustand
-
-- Баллы за интерактив на сайте  
-- CRUD для товаров  
-- Деплой на Vercel  
-- Упор на дизайн  
-
----
-
-### 🐺 [Бизнес Волчонок](https://github.com/Reddnaxx/business-wolf) — образовательная платформа для детей  
-> React, Redux Toolkit, Framer Motion
-
-- Лекции в виде чатов с маскотом  
-- Тестирование знаний  
-- Награды и бонусы  
-
-</details>
-
----
-
-<details>
-<summary>📈 GitHub статистика</summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reddnaxx&show_icons=true&theme=tokyonight&custom_title=Моя%20GitHub%20Статистика" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddnaxx&layout=compact&theme=tokyonight" alt="Top langs" />
-</p>
-
-</details>
-
----
-
-<details>
-<summary>🎮 Немного обо мне</summary>
-
-- 🎓 Учусь в УрФУ, 4 курс «Программная инженерия»  
-- 💡 Умею организовывать процессы  
-- 🤝 Работаю в команде, открыт к новым идеям  
-- 🎲 Люблю компьютерные и настольные игры  
-- 📚 Постоянно развиваюсь и изучаю новые технологии  
-
-</details>
 
 ---
 
