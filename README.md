@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет! Я — Александр</h1>
+<h1 align="center">👋 Привет!</h1>
 
 <p align="center">
   🧑‍💻 Фронтенд-разработчик<br />
